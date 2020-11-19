@@ -2,7 +2,7 @@
 
 This project holds user requests for enhancing Java development productivity on Windows.
 
-Please visit the Issues area to submit your idea/request/story and check on others' proposals and progress.
+Please visit the [Issues](https://github.com/microsoft/java-wdb/issues) area to submit your idea/request/story and check on others' proposals and progress.
 
 ## Contributing
 
