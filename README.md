@@ -1,8 +1,13 @@
 # Java on Windows
 
+About half of the Java developers around the world are using Windows computers. 
+We would like to ask you, who is developing Java applications on Windows: 
+`How can Microsoft make Windows any better for Java developers?`.
+
 This project holds user requests for enhancing Java development productivity on Windows.
 
-Please visit the [Issues](https://github.com/microsoft/java-wdb/issues) area to submit your idea/request/story and check on others' proposals and progress.
+Please visit the [Issues](https://github.com/microsoft/java-wdb/issues) area to submit 
+your idea/request/story and check on others' proposals and progress.
 
 ## Contributing
 
